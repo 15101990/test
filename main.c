@@ -8,7 +8,7 @@ int main()
     int i;
     for(i=x;i!=0;i--)
     {
-    printf("Hello world!\n");
+    // printf("Hello world!\n");
     }
     return 0;
 }
